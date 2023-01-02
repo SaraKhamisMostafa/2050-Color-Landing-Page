@@ -10,6 +10,9 @@ body{
     font-weight: 900;
     
 }
+.navbar-brand{
+    font-size: 45px;
+}
 .banner{
     background-color: #4741af;
     color:white;   
@@ -48,13 +51,58 @@ body{
     font-size: 35px;
 
 }
+.text-title-large{
+    font-size: 48px; 
+}
 .text-p{
     font-weight: 400;
-    font-size: 17px;
+    font-size: 18px;
 }
 .text-link{
 font-weight: 700;
 text-decoration: none;
 color: black;
-border-bottom: 3px solid #6c63ff ;
+
+}
+.text-border{
+    border-bottom: 3px solid #6c63ff ;
+}
+.about-img{
+    margin-left: -265px;
+}
+.service-img-background{
+    background-color: #f3f9fb;
+    border-radius: 50%;
+}
+.service-img-background img{
+    margin-top: -100px;
+    margin-left: 46px;
+}
+.serivce-icon{
+    background-color:#6c63ff ;
+    color: white;
+    padding: 13px;
+    border-radius: 50%;
+    width: 53px;
+    display: block;
+    height: 53px;
+    text-align: center;
+   
+}
+.service-title{
+    font-size: 21px;
+    font-weight: 700;
+}
+.serivce-icon{
+    transition: all 0.6s ease;
+}
+.service-card:hover span{
+    transform: translateX(50px);
+}
+.full-section{
+    background-color: rgb(243, 249, 251);
+
+}
+.product-card{
+   border-bottom: 5px solid #6c63ff; 
 }
