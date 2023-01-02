@@ -1,0 +1,60 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.mynavbar{
+    background-color: #4741af;
+    color:white;
+}
+.navbar{
+    font-weight: 900;
+    
+}
+.banner{
+    background-color: #4741af;
+    color:white;   
+}
+.nav-link, .navbar-brand{
+    color:white;  
+}
+.banner-heading{
+    font-size: 72px;
+    font-weight: 800;
+   
+}
+.banner-btn{
+    background-color:#6c63ff ;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 12px 58px;
+    margin: 25px 0 0;
+    border-radius: 30px;
+}
+.banner-btn:hover{
+    background-color:white;
+    color:#6c63ff;
+}
+.banner-text{
+    font-size: 24px;
+}
+.text-subtitle{
+    color:#6c63ff;
+    font-weight: 700;
+    font-size: 24px;
+}
+.text-title{
+    font-weight: 700;
+    font-size: 35px;
+
+}
+.text-p{
+    font-weight: 400;
+    font-size: 17px;
+}
+.text-link{
+font-weight: 700;
+text-decoration: none;
+color: black;
+border-bottom: 3px solid #6c63ff ;
+}
