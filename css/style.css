@@ -106,3 +106,12 @@ color: black;
 .product-card{
    border-bottom: 5px solid #6c63ff; 
 }
+.service-icon-large{
+    background-color:#6c63ff ;
+    color: white;  
+    padding:20px;
+    border-radius: 50%;
+    width: 53px;
+    height: 53px;
+    text-align: center;
+}
