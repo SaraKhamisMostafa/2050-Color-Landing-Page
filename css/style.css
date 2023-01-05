@@ -111,7 +111,19 @@ color: black;
     color: white;  
     padding:20px;
     border-radius: 50%;
-    width: 53px;
-    height: 53px;
+    width: 60px;
+    height: 60px;
     text-align: center;
+    margin-bottom: 40px;
+}
+.myimage{
+    animation-name: float-bob;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+.myimage img{
+    max-width: 100%;
+    transition: all 0.3s ease-out 0s;
+
 }
